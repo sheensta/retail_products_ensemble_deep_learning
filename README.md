@@ -4,4 +4,4 @@ This project uses both image data and text descriptions of retail products to cl
 
 I've uploaded the code I used to clean the data and train models with, as well as train/test CSV files containing products, their description, and labels.  
 
-Please read the report for more details!
+Please read the [report](https://github.com/sheensta/retail_products_ensemble_deep_learning/blob/main/Retail_products_report.pdf) for more details!
