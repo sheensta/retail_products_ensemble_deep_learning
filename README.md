@@ -15,3 +15,5 @@ Description of notebooks:
 5) _Final_model_evaluations_: calculating accuracy metrics for all models, including ensemble modeling
 6) _Training on full dataset_: training models on full dataset for predicting unlabeled Kaggle test set
 7) _Predicting test dataset_: predicting on the final Kaggle dataset
+
+(![image](https://user-images.githubusercontent.com/60722023/111910168-a79ec780-8a36-11eb-8383-db61c0815aa1.png))
