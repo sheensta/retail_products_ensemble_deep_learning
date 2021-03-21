@@ -8,10 +8,10 @@ Please read the [report](https://github.com/sheensta/retail_products_ensemble_de
 
 Description of notebooks:
 
-1) Image_conversion.ipynb: Converting images to array format
-2) NLP Exploratory analysis: Exploratory analysis for text data
-3) Training Image Models: select training for image models
-4) NLP_Feature_Extraction: feature extraction and training for text models
-5) Final_model_evaluations: calculating accuracy metrics for all models, including ensemble modeling
-6) Training on full dataset: training models on full dataset for predicting unlabeled Kaggle test set
-7) Predicting test dataset: predicting on the final Kaggle dataset
+1) _Image_conversion_: Converting images to array format
+2) _NLP Exploratory analysis_: Exploratory analysis for text data
+3) _Training Image Models_: select training for image models
+4) _NLP_Feature_Extraction_: feature extraction and training for text models
+5) _Final_model_evaluations_: calculating accuracy metrics for all models, including ensemble modeling
+6) _Training on full dataset_: training models on full dataset for predicting unlabeled Kaggle test set
+7) _Predicting test dataset_: predicting on the final Kaggle dataset
